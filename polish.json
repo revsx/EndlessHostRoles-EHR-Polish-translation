@@ -3611,7 +3611,7 @@
   "TransmitterInfoLong": "(Crewmates):\\nAs the Transmitter, when you complete a task, you teleport to the nearest player.",
   "Adrenaline": "Adrenaline",
   "AdrenalineInfo": "Be Fast Enough to Avoid Kills",
-  "AdrenalineInfoLong": "(Crewmates):\\nAs the Adrenaline, when you get attacked, the killing attempt gets blocked and you receive a timer. If a meeting gets called before the timer ends, you survive. Otherwise, you die when the timer ends.\\n\\nDepending on the settings, you may or may not know be able to call emergency meetings during the timer.",
+  "AdrenalineInfoLong": "(Crewmates):\\nRola, która po próbie zabójstwa przez rolę zabijającą otrzymuje licznik. Jeżeli przed upływem czasu zostanie zwołane spotkanie, osoba ta przeżywa, w przeciwnym razie umiera.",
   "Adrenaline.Time": "Time for a Meeting to Start",
   "Adrenaline.MaxSurvives": "Maximum Survives",
   "Adrenaline.MinTasksRequired": "Minimum Tasks Required to Survive an Attack",
