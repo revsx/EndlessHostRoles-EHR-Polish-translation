@@ -3746,7 +3746,7 @@ Adrenaline:Adrenaline
 AdrenalineInfo:Badz wystarczajaco szybki, by uniknac zabojstw
 AdrenalineInfoLong:(Crewmates):\nRola, która po próbie zabójstwa przez role zabijajaca otrzymuje licznik(timer). Jezeli przed uplywem czasu zostanie zwolane spotkanie, osoba ta przezywa, w przeciwnym razie umiera. 
 
-W zaleznosci od ustawien, mozesz miec nie mozliwosc wzywania spotkan awaryjnych w trakcie timera.
+W zaleznosci od ustawien, mozesz nie miec mozliwosci wzywania spotkan awaryjnych w trakcie odliczania - timera.
 Adrenaline.Time:Czas na rozpoczecie meetingu
 Adrenaline.MaxSurvives:Maksymalna liczba przezyc
 Adrenaline.MinTasksRequired:Minimalna liczba zadan potrzebna do przezycia ataku
