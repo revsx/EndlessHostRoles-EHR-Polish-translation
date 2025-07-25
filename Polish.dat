@@ -3636,7 +3636,7 @@ MonitorInfo:Sledz uzytkowanie urzadzen
 MonitorInfoLong:(Crewmates):\nJako Telecommunication otrzymujesz powiadomienie, gdy ktos uzyje kamer, funkcji zyciowych, logow drzwi lub admina (wiesz, kto konkretnie). Jesli masz pozostale uzycia zdolnosci, mozesz wejsc do ventu lub poglaskac, by otworzyc wszystkie zamkniete drzwi na mapie.
 Werewolf:Werewolf
 WerewolfInfo:Wejdz do ventu, by wejsc w szal i zabijac szybko
-WerewolfInfoLong:(Neutrals):\nJako Werewolf mozesz wejsc w szał, wchodzac do ventu. Podczas szalu masz bardzo krotki cooldown zabojstwa. Poza szalem nie mozesz zabijac. Szal ma cooldown i ograniczony czas trwania.
+WerewolfInfoLong:(Neutrals):\nJako Werewolf mozesz wejsc w szal, wchodzac do ventu. Podczas szalu masz bardzo krotki cooldown zabojstwa. Poza szalem nie mozesz zabijac. Szal ma cooldown i ograniczony czas trwania.
 WWRampageCD:Rampage Cooldown
 WWRampageDur:Rampage Duration
 WWRampageCDAfterNoKillRampage:Rampage Cooldown After Rampaging Without Killing
@@ -3744,7 +3744,7 @@ TransmitterInfo:TP to nearest player by doing a task
 TransmitterInfoLong:(Crewmates):\nAs the Transmitter, when you complete a task, you teleport to the nearest player.
 Adrenaline:Adrenaline
 AdrenalineInfo:Badz wystarczajaco szybki, by uniknac zabojstw
-AdrenalineInfoLong:(Crewmates):\nRola, która po próbie zabójstwa przez role zabijajaca otrzymuje licznik(timer). Jezeli przed upływem czasu zostanie zwolane spotkanie, osoba ta przezywa, w przeciwnym razie umiera. 
+AdrenalineInfoLong:(Crewmates):\nRola, która po próbie zabójstwa przez role zabijajaca otrzymuje licznik(timer). Jezeli przed uplywem czasu zostanie zwolane spotkanie, osoba ta przezywa, w przeciwnym razie umiera. 
 
 W zaleznosci od ustawien, mozesz miec nie mozliwosc wzywania spotkan awaryjnych w trakcie timera.
 Adrenaline.Time:Czas na rozpoczecie meetingu
