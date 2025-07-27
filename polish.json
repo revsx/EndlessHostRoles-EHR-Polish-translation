@@ -3303,7 +3303,7 @@
   "DivinatorCheck.SlowGame": "<b>{0}</b> lubi, gdy gra toczy sie powoli.",
   "DivinatorCheck.HelpFromDead": "<b>{0}</b> otrzymuje pomoc od zmarlych.",
   "DivinatorCheck.UnusualGoal": "<b>{0}</b> ma nietypowy warunek zwyciestwa.",
-  "DivinatorCheckResult": "<b>{0}</b> to jedna z ponizszych rol:\\n{1}"
+  "DivinatorCheckResult": "<b>{0}</b> to jedna z ponizszych rol:\\n{1}",
   "SunnyboyChance": "<color=#ff9902>Sunnyboy</color> Chance",
   "BardChance": "<color=#ff1919>Bard</color> Chance",
   "NukerChance": "<color=#ff1919>Nuker</color> Chance",
