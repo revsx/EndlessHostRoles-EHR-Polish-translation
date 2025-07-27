@@ -498,7 +498,7 @@
   "ParasiteInfo": "Help the Impostors kill the crew",
   "DisperserInfo": "Shiftuj aby teleportowac wszystkich do randomowych ventow",
   "InhibitorInfo": "You cannot kill during sabotages",
-  "SaboteurInfo": "You can only kill during sabotages",
+  "SaboteurInfo": "Mozesz zabijac tylko w czasie sabotazy",
   "CouncillorInfo": "Kill crewmates during meetings",
   "DazzlerInfo": "Reduce the vision of the crew",
   "DeathpactInfo": "Assign players to a death pact",
