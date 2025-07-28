@@ -4602,7 +4602,7 @@
   "SilencerMax": "Maximum times blackmailed players may speak",
   "SilencerSkillCooldown": "Ability Cooldown",
   "Doppelganger": "Doppelganger",
-  "DoppelgangerInfo": "Kradnij tozsamosc innych graczy!"
+  "DoppelgangerInfo": "Kradnij tozsamosc innych graczy!",
   "DoppelgangerInfoLong": "(Neutrals):\\nJako Doppelganger uzyj przycisku zabojstwa, aby ukrasc tozsamosc gracza (jego imie i wyglad), a nastepnie zabij swoj cel.\n\nZabij wszystkich, aby wygrac.\n\nUwaga: Nie mozesz ukrasc tozsamosci gracza, gdy aktywny jest Camouflage.",
   "Tether": "Tether",
   "TetherInfo": "Teleportuj sie do swojego celu",
