@@ -84,7 +84,6 @@
   "RoleSubCategoryLimitOptions.Impostor_Support.EnableLimit": "<#ffffff>Zmień liczbę</color> Wspierających Impostorów <#ffffff>w grze</color>",
   "RoleSubCategoryLimitOptions.Impostor_Concealing.EnableLimit": "<#ffffff>Zmień liczbę</color> Ukrywających się Impostorów <#ffffff>w grze</color>",
   "RoleSubCategoryLimitOptions.Impostor_Miscellaneous.EnableLimit": "<#ffffff>Zmień liczbę</color> Mieszanych Impostorów <#ffffff>w grze</color>"
-
   "RoleSubCategoryLimitOptions.MadMates.EnableLimit": "<#ffffff>Zmień liczbę</color> Madmate <#ffffff>ról w grze</color>",
   "RoleSubCategoryLimitOptions.Crewmate_Investigate.EnableLimit": "<#ffffff>Zmień liczbę</color> Crewmate Śledczych <#ffffff>ról w grze</color>",
   "RoleSubCategoryLimitOptions.Crewmate_Support.EnableLimit": "<#ffffff>Zmień liczbę</color> Crewmate Wspierających <#ffffff>ról w grze</color>",
@@ -153,7 +152,6 @@
   "CTA.MaxPlayers.Neutral": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#ffab1b>Neutral</color>",
   "CTA.MaxPlayers.Crewmate": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#8cffff>Crewmate</color>",
   "CTA.MaxPlayers.Coven": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#7b3fbb>Coven</color>"
-
   "GM": "Game Master",
   "Sunnyboy": "Sunnyboy",
   "Bard": "Bard",
