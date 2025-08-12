@@ -151,7 +151,7 @@
   "CTA.MaxPlayers.Impostor": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#ff1919>Impostor</color>",
   "CTA.MaxPlayers.Neutral": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#ffab1b>Neutral</color>",
   "CTA.MaxPlayers.Crewmate": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#8cffff>Crewmate</color>",
-  "CTA.MaxPlayers.Coven": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#7b3fbb>Coven</color>"
+  "CTA.MaxPlayers.Coven": "<#0000ff>Maksymalna</color> liczba graczy z drużyny <color=#7b3fbb>Coven</color>",
   "GM": "Game Master",
   "Sunnyboy": "Sunnyboy",
   "Bard": "Bard",
