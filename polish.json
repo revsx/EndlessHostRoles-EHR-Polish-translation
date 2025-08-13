@@ -9015,6 +9015,7 @@
   "Warden": "Warden",
   "WardenInfo": "Wzmocnij Crewmate'ow",
   "WardenInfoLong": "(Crewmate Ghost):\\nJako Warden mozesz chronic kogos (najlepiej Crewmate'a), aby ostrzec go przed niebezpieczenstwem i dac mu tymczasowe przyspieszenie.",
+  "WardenNotify": "The Warden warns you that you're in danger!",
   "WardenAdditionalSpeed": "Additional Speed",
   "WardenNotifyTarget": "Notify Target About Danger",
   "Prefix.Warden": "Warden",
