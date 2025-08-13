@@ -1,5 +1,5 @@
 # Endless Host Roles
-Polish Translation of EHR by: [revs](https://github.com/revsx)
+Polish Translation of EHR by: [revs](https://github.com/revsx) & [PanRafal](https://github.com/PanRafaI)
 
 To use the translation, follow these steps: 
 1. Download the '**Polish.dat**' file.
